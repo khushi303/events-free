@@ -1,0 +1,30 @@
+:root {
+    --sky-blue: #01C8FF;
+    --blue: #2C49FE;
+    --blue-31: #2c48fe31;
+    --black: #000;
+    --black-16: #0000001c;
+    --col-666: #666;
+    --col-9c: #9CA1BE;
+    --black-bb: #000000bb;
+    --white: #FFFFFF;
+    --col-F1: #F1F2F5;
+    --ff-poppins: 'poppins', sans-serif;
+    --fw-400: 400;
+    --fw-500: 500;
+    --fw-600: 600;
+    --fw-700: 700;
+    --fs-12: 12px;
+    --fs-14: 14px;
+    --fs-16: 16px;
+    --fs-18: 18px;
+    --fs-20: 20px;
+    --fs-26: 26px;
+    --fs-36: 36px;
+    --fs-48: 48px;
+    --br-20: 20px;
+    --br-23: 23px;
+    --br-30: 30px;
+    --br-35: 35px;
+    --br-36: 36px;
+}
