@@ -17,6 +17,7 @@
     --fs-12: 12px;
     --fs-14: 14px;
     --fs-16: 16px;
+    --fs-xl: 30px;
     --fs-18: 18px;
     --fs-20: 20px;
     --fs-26: 26px;
@@ -27,4 +28,10 @@
     --br-30: 30px;
     --br-35: 35px;
     --br-36: 36px;
+}
+
+@media (min-width:1200px) {
+    :root {
+        --fs-xl: 16px;
+    }
 }
